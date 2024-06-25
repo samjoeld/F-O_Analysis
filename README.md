@@ -41,5 +41,5 @@ For detailed data and insights, refer to the following resources:
 
 These links provide access to reliable data for a thorough analysis of the company's trading activities.
 
-## Repository Structure
+
 
